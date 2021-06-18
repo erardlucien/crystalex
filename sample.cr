@@ -36,3 +36,5 @@ p! message,
    message = "Hello World! How are you, World?"
 p! message,
    message.gsub("World", "Crystal")
+puts "Hi!"
+
